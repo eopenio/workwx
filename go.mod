@@ -8,6 +8,6 @@ require (
 	github.com/russross/blackfriday/v2 v2.0.1
 	github.com/smartystreets/goconvey v1.6.4
 	github.com/urfave/cli/v2 v2.2.0
-	github.com/eopenio/workwx v0.2.1
+	github.com/eopenio/workwx lastest 
 	golang.org/x/net v0.0.0-20200202094626-16171245cfb2
 )
